@@ -1,14 +1,14 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
+  client_id: '349429885835-msl0fn8q4aj0m2eia46ip96m79pftbbm.apps.googleusercontent.com', // Google Client ID
+  client_secret: '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', // Google Client Secret
   domain: "! ",
   black_list: ["email@gmail.com"]
   };
   var gd;
   
-  authConfig.domainCount = 4; //Remplace 4 by the number of different drives you have 
+  authConfig.domainCount = 2; //Remplace 4 by the number of different drives you have 
   
   var today;
   
@@ -371,7 +371,7 @@ var authConfig = {
               padding-right: 4%;
           }
           /*----------------- End PopUp Create ---------------*/
-  
+  sqb
   
   
           /*------------------- PopUp Error ------------------*/
@@ -584,7 +584,7 @@ var authConfig = {
   
   
   
-      </style>
+1//04DczTHz9hB7iCgYIARAAGAQSNwF-L9Irm4jnDfj9DOIWvSlRcscd89wVQIILmZtF4J-CHMhDR-OYLGCLoi11Z90mJBGFLdo1ucs      </style>
   </head>
   
   
